@@ -1,0 +1,12 @@
+{
+  "name": "vanila-scrapper",
+  "private": true,
+  "scripts": {
+    "start": "meteor --settings settings.json"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.22.0",
+    "bcrypt": "^0.8.7",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
